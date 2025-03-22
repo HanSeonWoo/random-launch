@@ -1,0 +1,33 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <!-- 배경 -->
+  <rect width="1200" height="630" fill="#4ADE80" />
+  
+  <!-- 그림자가 있는 카드 -->
+  <rect x="150" y="115" width="900" height="400" rx="20" ry="20" fill="white" filter="drop-shadow(0 4px 6px rgba(0, 0, 0, 0.1))" />
+  
+  <!-- 타이틀 -->
+  <text x="600" y="215" font-family="'Noto Sans KR', sans-serif" font-size="60" font-weight="700" text-anchor="middle" fill="#333333">랜덤 점심 팀 생성기</text>
+  
+  <!-- 설명 텍스트 -->
+  <text x="600" y="295" font-family="'Noto Sans KR', sans-serif" font-size="32" text-anchor="middle" fill="#666666">직원들을 위한 랜덤 점심 팀 생성 도구</text>
+  
+  <!-- 음식 아이콘 -->
+  <g transform="translate(300, 350)">
+    <circle cx="0" cy="0" r="70" fill="#FFD166" />
+    <path d="M-30,-20 L30,-20 L0,30 Z" fill="#FF6B6B" />
+    <circle cx="0" cy="-5" r="10" fill="#FF6B6B" />
+  </g>
+  
+  <!-- 사람 아이콘들 -->
+  <g transform="translate(600, 350)">
+    <circle cx="-50" cy="0" r="30" fill="#118AB2" />
+    <circle cx="0" cy="0" r="30" fill="#073B4C" />
+    <circle cx="50" cy="0" r="30" fill="#06D6A0" />
+  </g>
+  
+  <!-- 랜덤 화살표 아이콘 -->
+  <g transform="translate(900, 350)">
+    <path d="M-40,-40 L40,40 M-40,40 L40,-40" stroke="#FF6B6B" stroke-width="10" stroke-linecap="round" />
+    <circle cx="0" cy="0" r="50" fill="none" stroke="#FF6B6B" stroke-width="5" />
+  </g>
+</svg> 
