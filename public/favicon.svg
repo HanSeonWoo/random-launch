@@ -1,0 +1,17 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 배경 원 -->
+  <circle cx="50" cy="50" r="48" fill="#4ADE80" stroke="#2E7D32" stroke-width="2"/>
+  
+  <!-- 식사 테이블 -->
+  <rect x="20" y="45" width="60" height="30" rx="5" fill="#8B4513"/>
+  <rect x="25" y="40" width="50" height="5" rx="2" fill="#A0522D"/>
+  
+  <!-- 사람들 (작은 원) -->
+  <circle cx="35" cy="25" r="10" fill="#3B82F6" stroke="#1E40AF" stroke-width="1.5"/>
+  <circle cx="65" cy="25" r="10" fill="#10B981" stroke="#047857" stroke-width="1.5"/>
+  
+  <!-- 식기 -->
+  <rect x="40" y="50" width="5" height="15" rx="2" fill="#E5E7EB"/>
+  <rect x="55" y="50" width="5" height="15" rx="2" fill="#E5E7EB"/>
+  <circle cx="50" cy="60" r="8" fill="#E5E7EB" stroke="#D1D5DB" stroke-width="1"/>
+</svg> 
