@@ -12,7 +12,7 @@ interface ToastProps {
   visible: boolean;
 }
 
-const DEFAULT_MEMBERS = ['양현모', '오명진', '권금이', '장찬희', '한선우', '김종관', '김진홍', '임혜린','표수진','유우석', '하상영', '최보영', '곽동욱'];
+const DEFAULT_MEMBERS = ['양현모', '오명진', '권금이', '한선우', '김종관', '김진홍', '임혜린','표수진', '하상영', '최보영', '정인교', '조수민', '모성진'];
 
 function App() {
   const [members, setMembers] = useState<string[]>(DEFAULT_MEMBERS);
